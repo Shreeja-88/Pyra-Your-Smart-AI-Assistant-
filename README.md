@@ -72,17 +72,17 @@
 - "Search for Python programming" → Opens Google search
 - "Play music" → Opens Gaana.com
 - "Tell me a joke" → Gives a random joke
+ 
+## 📸 Screenshots  
 
-## 📸 UI & Features Screenshots  
-
-![Screenshot](image/screenshot1.png)  
-
-![Screenshot](image/screenshot2.png)  
-
+<p align="center">
+  <img src="image/screenshot1.png" width="300"/>  
+  <img src="image/screenshot2.png" width="300"/>  
+</p>
 
 ## 📜 License
 - This project is open-source and available under the MIT License
-
+---
 
 **⚡ Built with ❤️ in Python – Meet Pyra, Your Smart AI Assistant 🤖**
 
