@@ -1,0 +1,7 @@
+wikipedia
+pyjokes
+pillow
+SpeechRecognition==3.8.1
+PyAudio
+pyttsx3
+
